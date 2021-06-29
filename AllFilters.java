@@ -2,7 +2,7 @@
 /**
  * Write a description of AllFilters here.
  * 
- * @author (your name) 
+ * @author (Jiaqi Zou) 
  * @version (a version number or a date)
  */
 import java.util.ArrayList;
