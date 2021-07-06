@@ -17,7 +17,7 @@ Find users in the database that have similar ratings and weighting their input t
 Make the program more efficient with a RaterDatabase class that is designed and implemented similarly to the MovieDatabase class.
 A HashMap named ourRaters that maps a rater ID String to a Rater object that includes all the movie ratings made by this rater. 
 
-## What I have learned
+## Tech Stack
 * Sorting and searching 
 * Database
 * Interfaces, filters
