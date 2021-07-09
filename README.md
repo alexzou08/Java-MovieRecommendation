@@ -16,6 +16,7 @@ This is a website which would make customized movie recommendations based on the
 ---
 <img src= "movie recom03.png" width = "600">
 
+---
 ## Code design
 
 Build a recommender will focus on making simple recommendations based on the average ratings that a movie receives.
