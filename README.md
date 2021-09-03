@@ -24,7 +24,9 @@ Use interfaces to rewrite existing code, making it more flexible and more effici
 Use the AllFilters class to combine asking questions about average ratings by length of film in minutes and directors.
 Find users in the database that have similar ratings and weighting their input to provide a more personal recommendation for the users of the program.
 Make the program more efficient with a RaterDatabase class that is designed and implemented similarly to the MovieDatabase class.
-A HashMap named ourRaters that maps a rater ID String to a Rater object that includes all the movie ratings made by this rater. 
+A HashMap named ourRaters that maps a rater ID String to a Rater object that includes all the movie ratings made by this rater.
+
+<img src= "MovieFlowChart.png" width = "600">
 
 ## Tech Stack
 * Sorting and searching 
